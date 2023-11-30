@@ -11,14 +11,14 @@ type Pet = {
 const data: Pet[]= [
     {
         type: 'dog',
-        image: 'images/pastor-alemao.jpg',
+        image: 'pastor-alemao.jpg',
         name: 'Pastor-alemão',
         color: 'Amarelo e Preto',
         sex: 'Masculino'
     },
     {
         type: 'dog',
-        image: 'images/labrador.jpg',
+        image: 'labrador.jpg',
         name: 'Labrador-retriever',
         color: 'Branco',
         sex: 'Masculino'
@@ -32,98 +32,98 @@ const data: Pet[]= [
     },
     {
         type: 'dog',
-        image: 'images/husky.jpg',
+        image: 'husky.jpg',
         name: 'Husky Siberiano',
         color: 'Branco e Preto',
         sex: 'Masculino'
     },
     {
         type: 'dog',
-        image: 'images/golden.jpg',
+        image: 'golden.jpg',
         name: 'Golden Retriever',
         color: 'Amarelo',
         sex: 'Masculino'
     },
     {
         type: 'dog',
-        image: 'images/poodle.jpg',
+        image: 'poodle.jpg',
         name: 'Poodle',
         color: 'Branco',
         sex: 'Feminino'
     },
     {
         type: 'dog',
-        image: 'images/bulldog.jpg',
+        image: 'bulldog.jpg',
         name: 'Bulldog',
         color: 'Branco e Amarelo',
         sex: 'Masculino'
     },
     {
         type: 'cat',
-        image: 'images/persa.jpg',
+        image: 'persa.jpg',
         name: 'Persa',
         color: 'Amarelo',
         sex: 'Masculino'
     },
     {
         type: 'cat',
-        image: 'images/mainecoon.jpg',
+        image: 'mainecoon.jpg',
         name: 'Maine Coon',
         color: 'Preto e Branco',
         sex: 'Masculino'
     },
     {
         type: 'cat',
-        image: 'images/bengal.jpg',
+        image: 'bengal.jpg',
         name: 'Bengal',
         color: 'Branco, Preto e Amarelo',
         sex: 'Feminino'
     },
     {
         type: 'cat',
-        image: 'images/siames.jpg',
+        image: 'siames.jpg',
         name: 'Siamês',
         color: 'Amarelo e Preto',
         sex: 'Masculino'
     },
     {
         type: 'cat',
-        image: 'images/sphynx.jpg',
+        image: 'sphynx.jpg',
         name: 'Sphynx',
         color: 'Branco',
         sex: 'Masculino'
     },
     {
         type: 'fish',
-        image: 'images/neon.jpg',
+        image: 'neon.jpg',
         name: 'Tetra Neon',
         color: 'Vermelho e Azul',
         sex: 'Masculino'
     },
     {
         type: 'fish',
-        image: 'images/matogrosso.jpg',
+        image: 'matogrosso.jpg',
         name: 'Mato Grosso',
         color: 'Laranja',
         sex: 'Masculino'
     },
     {
         type: 'fish',
-        image: 'images/limpavidro.jpg',
+        image: 'limpavidro.jpg',
         name: 'Limpa Vidro',
         color: 'Verde e Branco',
         sex: 'Masculino'
     },
     {
         type: 'fish',
-        image: 'images/tanictis.jpg',
+        image: 'tanictis.jpg',
         name: 'Tanictis',
         color: 'Vermelho',
         sex: 'Masculino'
     },
     {
         type: 'fish',
-        image: 'images/acara.jpg',
+        image: 'acara.jpg',
         name: 'Acará Bandeira',
         color: 'Preto',
         sex: 'Masculino'
